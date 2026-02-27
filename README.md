@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" src="GITHUB_Readme_File_Images/Gemini_Generated_Image_2gyqtq2gyqtq2gyq1.png"  />
+  <img height="375" src="GITHUB_Readme_File_Images/Gemini_Generated_Image_2gyqtq2gyqtq2gyq1.png"  />
 </div>
 <br>
 <br>
