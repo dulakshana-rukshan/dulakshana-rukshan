@@ -38,8 +38,8 @@ I believe in:
 <h2>🌐 𝚂𝚘𝚌𝚒𝚊𝚕𝚜:<h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/dulakshana-rukshan-priyadarshana" target="_blank">
-    <img height="50"src="GITHUB_Readme_File_Images/linkedin.png">
+  <a href="https://www.linkedin.com/in/dulakshana-rukshan-priyadarshana/" target="_blank">
+    <img height="50" src="GITHUB_Readme_File_Images/linkedin.png">
   </a>
 </p>
 
