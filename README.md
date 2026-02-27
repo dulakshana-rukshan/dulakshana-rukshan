@@ -39,7 +39,7 @@ I believe in:
 
 <p align="center">
   <a href="www.linkedin.com/in/dulakshana-rukshan-priyadarshana" target="_blank">
-    <img src="">
+    <img height="50"src="GITHUB_Readme_File_Images/linkedin.png">
   </a>
 </p>
 
