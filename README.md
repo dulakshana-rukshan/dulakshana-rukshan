@@ -108,19 +108,14 @@ I believe in:
 <p align="center">
 
   
-  <img height="50" margin="10" src=""/> 
+  <img height="150" src="GITHUB_Readme_File_Images/Screenshot 2026-02-22 165624.png"/> 
 
-  <img height="50" src=""/>
+  <img height="150" src="GITHUB_Readme_File_Images/Screenshot 2026-01-27 151949.png"/>
 
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulakshana-rukshan&show_icons=true&locale=en&layout=compact" alt="dulakshana-rukshan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulakshana-rukshan&show_icons=true&locale=en" alt="dulakshana-rukshan" /></p>
-
+<h1 align="center">TᕼᗩᑎK YOᑌ ! ,❤️😊 </h1>
