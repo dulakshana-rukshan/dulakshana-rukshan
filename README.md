@@ -2,8 +2,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Dulakshana Rukshan</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=620&height=50&lines=𝔸𝕀+𝕒𝕟𝕕+𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖+𝔼𝕟𝕘𝕚𝕟𝕟𝕖𝕣+𝕊𝕥𝕦𝕕𝕖𝕟𝕥.;𝔽𝕦𝕝𝕝+𝕊𝕥𝕒𝕔𝕜+𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣;𝔽𝕣𝕖𝕖𝕝𝕒𝕟𝕔𝕖𝕣" alt="Headline" />
+<h1 align="center">Hi 👋, I'm 𝐃𝐮𝐥𝐚𝐤𝐬𝐡𝐚𝐧𝐚 𝐑𝐮𝐤𝐬𝐡𝐚𝐧</h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=620&height=50&lines=𝔸𝕀+𝕒𝕟𝕕+𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖+𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣+𝕊𝕥𝕦𝕕𝕖𝕟𝕥.;𝔽𝕦𝕝𝕝+𝕊𝕥𝕒𝕔𝕜+𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣.;𝔽𝕣𝕖𝕖𝕝𝕒𝕟𝕔𝕖𝕣." alt="Headline" />
     </div>    </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulakshana-rukshan&label=Profile%20views&color=0e75b6&style=flat" alt="dulakshana-rukshan" /> </p>
