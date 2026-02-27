@@ -50,7 +50,7 @@ I believe in:
 <p align="center">
 
   <!-- Python -->
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="50" margin="10" src="GITHUB_Readme_File_Images/python.png"/> 
 
   <!-- Java -->
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
