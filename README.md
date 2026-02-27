@@ -45,7 +45,7 @@ I believe in:
 
 ---
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> 𝚂𝚔𝚒𝚕𝚕𝚜:</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> 𝚂𝚔𝚒𝚕𝚕𝚜:</b><br>
 
 <p align="center">
 
@@ -53,22 +53,49 @@ I believe in:
   <img height="50" margin="10" src="GITHUB_Readme_File_Images/python.png"/> 
 
   <!-- Java -->
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="50" src="GITHUB_Readme_File_Images/java.png"/>
 
   <!-- HTML -->
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="50" src="GITHUB_Readme_File_Images/html-5.png"/>
 
   <!-- CSS -->
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="50" src="GITHUB_Readme_File_Images/css-3.png"/>
 
   <!-- JavaScript -->
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="50" src="GITHUB_Readme_File_Images/java-script.png"/>
 
-  <!-- Git -->
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <!-- Github -->
+  <img height="50" src="GITHUB_Readme_File_Images/github-logo_icon-icons.com_73546.png"/>
 
-  <!-- Docker -->
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <!-- flutter -->
+  <img height="50" src="GITHUB_Readme_File_Images/file_type_flutter_icon_130599.png"/>
+
+  <!-- tailwind -->
+  <img height="50" src="GITHUB_Readme_File_Images/file_type_tailwind_icon_130128.png"/>
+  
+  <!-- boostrap -->
+  <img height="50" src="GITHUB_Readme_File_Images/bootstrap_plain_logo_icon_146619.png"/>
+  
+  <!-- postman -->
+  <img height="50" src="GITHUB_Readme_File_Images/postman_macos_bigsur_icon_189815.png"/>
+
+  </P>
+   <p align="center">
+
+  <!-- jira -->
+  <img height="50" src="GITHUB_Readme_File_Images/jira_logo_icon_147274.png"/>
+
+  <!-- mysql -->
+  <img height="50" src="GITHUB_Readme_File_Images/mysql_original_wordmark_logo_icon_146417.png"/>
+
+  <!-- dbeaver -->
+  <img height="50" src="GITHUB_Readme_File_Images/dbeaver_94555.png"/>
+
+  <!-- figma -->
+  <img height="50" src="GITHUB_Readme_File_Images/figma_logo_icon_170157.png"/>
+
+  <!-- postgres -->
+  <img height="50" src="GITHUB_Readme_File_Images/pgadmin_94126.png"/>
 
 </p>
 
