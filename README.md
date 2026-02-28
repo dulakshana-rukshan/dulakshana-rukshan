@@ -95,7 +95,7 @@ I believe in:
   <img height="50" src="GITHUB_Readme_File_Images/figma_logo_icon_170157.png"/>
 
   <!-- postgres -->
-  <img height="50" src="GITHUB_Readme_File_Images/pgadmin_94126.png"/>
+  <img height="50" src="GITHUB_Readme_File_Images/postgresql_plain_logo_icon_146389.png"/>
 
 </p>
 
